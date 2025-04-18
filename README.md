@@ -6,7 +6,7 @@ FarmSupport is a comprehensive full-stack solution that uses artificial intellig
 
 ## Screenshots
 
-<img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(1).png" width="100%" />
+<img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(8).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(2).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(3).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(3).png" width="100%" />
@@ -14,7 +14,7 @@ FarmSupport is a comprehensive full-stack solution that uses artificial intellig
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(5).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(6).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(7).png" width="100%" />
-<img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(8).png" width="100%" />
+<img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(1).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(9).png" width="100%" />
 <img src="https://github.com/AshishPku/Project_images/blob/main/FarmSupport%20(10).png" width="100%" />
 
